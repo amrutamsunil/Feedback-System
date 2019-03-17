@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/FileSaver.js-master/demo" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/FileSaver.js-master/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/FileSaver.js-master/src" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/TableExport-3.3.13/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/TableExport-3.3.13/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/TableExport-3.3.13/gitbook" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/TableExport-3.3.13/src" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bootstrap/js" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dompdf/dompdf" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/fpdf181/doc" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/fpdf181/font" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/fpdf181/makefont" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/fpdf181/tutorial" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/js/i18n" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phenx/php-font-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phenx/php-svg-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/sabberworm/php-css-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/select2/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/select2/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/select2/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/select2/src" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/select2/tests" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/select2/vendor" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

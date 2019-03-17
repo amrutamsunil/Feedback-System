@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Faculty loading</title>
+	<link rel="stylesheet" type="text/css" href="http://christinaholly.com/sandbox/demo.css">
+	<!-- plugin files -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="goalProgress_faculty.css" />
+	<script type="text/javascript" src="goalProgress_faculty1.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#sample_goal').goalProgress({
+				goalAmount: 600,
+				currentAmount: 200,
+				textBefore: '',
+				textAfter: '%'
+			});
+		});
+	</script>
+</head>
+<body>
+	<div id="header">
+	</div>
+	<div class="content">
+		<div class="container">
+			<div id="sample_goal"></div>
+		</div>
+	</div>
+</body>
+</html>

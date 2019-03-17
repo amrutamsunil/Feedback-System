@@ -1,0 +1,47 @@
+/*blink*/
+blink {
+    -webkit-animation: 1s linear infinite condemned_blink_effect; 
+    animation: 1s linear infinite condemned_blink_effect;
+}
+
+@keyframes condemned_blink_effect {
+    0% {
+        visibility: hidden;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: visible;
+    }
+}
+.arrow {
+  box-sizing: border-box;
+  height: 5vw;
+  width: 5vw;
+  border-style: solid;
+  border-color: white;
+  border-width: 0px 10px 10px 0px;
+  transform: rotate(45deg);
+  transition: border-width 150ms ease-in-out;
+}
+.bigbtn_1{
+background-image:url('../../images/phase1.png');
+   background-position: center center;
+border: 2px solid darkgray;
+background-repeat: no-repeat;
+background-size: cover;
+cursor: pointer;
+text-align:-webkit-center;
+z-index: 2;
+padding: 10% 10% 10% 10%;box-shadow: 3px 3px 5px 5px black;}
+.bigbtn_2{
+    background-image:url('../../images/phase2.png');
+    background-position: center center;
+    border: 2px solid darkgray;
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: pointer;
+    text-align:-webkit-center;
+    z-index: 2;
+    padding: 10% 10% 10% 10%;box-shadow: 3px 3px 5px 5px black;}

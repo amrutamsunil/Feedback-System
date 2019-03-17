@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbar_miet {
+  overflow: hidden;
+  background-color: #333; 
+}
+
+.navbar_miet a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav_miet {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav_miet .subnavbtn_miet {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar_miet a:hover, .subnav_miet:hover .subnavbtn_miet {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav_miet-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: #333;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav_miet-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav_miet-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav_miet:hover .subnav_miet-content {
+  display: block;
+}

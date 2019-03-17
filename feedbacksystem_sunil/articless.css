@@ -1,0 +1,13 @@
+art{
+    height:600px;
+    max-width: 800px;
+    width:80%;
+    border-width: 10px ;
+    border: 20px solid #bdc3c7;
+    padding:20px;
+    margin:0 auto;
+}
+date{
+    color:Blue;
+    font-family: AMGDT;
+}

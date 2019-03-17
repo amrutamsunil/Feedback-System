@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/js" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/css" />
+      <path value="$PROJECT_DIR$/vendor/js/i18n" />
+      <path value="$PROJECT_DIR$/vendor/select2/docs" />
+      <path value="$PROJECT_DIR$/vendor/select2/src" />
+      <path value="$PROJECT_DIR$/vendor/select2/vendor" />
+      <path value="$PROJECT_DIR$/vendor/select2/tests" />
+      <path value="$PROJECT_DIR$/vendor/select2/dist" />
+      <path value="$PROJECT_DIR$/vendor/select2/.github" />
+      <path value="$PROJECT_DIR$/vendor/TableExport-3.3.13/examples" />
+      <path value="$PROJECT_DIR$/vendor/TableExport-3.3.13/dist" />
+      <path value="$PROJECT_DIR$/vendor/TableExport-3.3.13/src" />
+      <path value="$PROJECT_DIR$/vendor/TableExport-3.3.13/gitbook" />
+      <path value="$PROJECT_DIR$/vendor/FileSaver.js-master/demo" />
+      <path value="$PROJECT_DIR$/vendor/fpdf181/tutorial" />
+      <path value="$PROJECT_DIR$/vendor/fpdf181/makefont" />
+      <path value="$PROJECT_DIR$/vendor/fpdf181/font" />
+      <path value="$PROJECT_DIR$/vendor/fpdf181/doc" />
+      <path value="$PROJECT_DIR$/vendor/FileSaver.js-master/src" />
+      <path value="$PROJECT_DIR$/vendor/FileSaver.js-master/dist" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+</project>
